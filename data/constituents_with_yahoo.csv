@@ -1,0 +1,623 @@
+symbol,name,index,yahoo,status
+MMM,3M,SP500,MMM,ok
+AOS,A. O. Smith,SP500,AOS,ok
+ABT,Abbott Laboratories,SP500,ABT,ok
+ABBV,AbbVie,SP500,ABBV,ok
+ACN,Accenture,SP500,ACN,ok
+ADBE,Adobe Inc.,SP500,ADBE,ok
+AMD,Advanced Micro Devices,SP500,AMD,ok
+AES,AES Corporation,SP500,AES,ok
+AFL,Aflac,SP500,AFL,ok
+A,Agilent Technologies,SP500,A,ok
+APD,Air Products,SP500,APD,ok
+ABNB,Airbnb,SP500,ABNB,ok
+AKAM,Akamai Technologies,SP500,AKAM,ok
+ALB,Albemarle Corporation,SP500,ALB,ok
+ARE,Alexandria Real Estate Equities,SP500,ARE,ok
+ALGN,Align Technology,SP500,ALGN,ok
+ALLE,Allegion,SP500,ALLE,ok
+LNT,Alliant Energy,SP500,LNT,ok
+ALL,Allstate,SP500,ALL,ok
+GOOGL,Alphabet Inc. (Class A),SP500,GOOGL,ok
+GOOG,Alphabet Inc. (Class C),SP500,GOOG,ok
+MO,Altria,SP500,MO,ok
+AMZN,Amazon,SP500,AMZN,ok
+AMCR,Amcor,SP500,AMCR,ok
+AEE,Ameren,SP500,AEE,ok
+AEP,American Electric Power,SP500,AEP,ok
+AXP,American Express,SP500,AXP,ok
+AIG,American International Group,SP500,AIG,ok
+AMT,American Tower,SP500,AMT,ok
+AWK,American Water Works,SP500,AWK,ok
+AMP,Ameriprise Financial,SP500,AMP,ok
+AME,Ametek,SP500,AME,ok
+AMGN,Amgen,SP500,AMGN,ok
+APH,Amphenol,SP500,APH,ok
+ADI,Analog Devices,SP500,ADI,ok
+AON,Aon plc,SP500,AON,ok
+APA,APA Corporation,SP500,APA,ok
+APO,Apollo Global Management,SP500,APO,ok
+AAPL,Apple Inc.,SP500,AAPL,ok
+AMAT,Applied Materials,SP500,AMAT,ok
+APTV,Aptiv,SP500,APTV,ok
+ACGL,Arch Capital Group,SP500,ACGL,ok
+ADM,Archer Daniels Midland,SP500,ADM,ok
+ANET,Arista Networks,SP500,ANET,ok
+AJG,Arthur J. Gallagher & Co.,SP500,AJG,ok
+AIZ,Assurant,SP500,AIZ,ok
+T,AT&T,SP500,T,ok
+ATO,Atmos Energy,SP500,ATO,ok
+ADSK,Autodesk,SP500,ADSK,ok
+ADP,Automatic Data Processing,SP500,ADP,ok
+AZO,AutoZone,SP500,AZO,ok
+AVB,AvalonBay Communities,SP500,AVB,ok
+AVY,Avery Dennison,SP500,AVY,ok
+AXON,Axon Enterprise,SP500,AXON,ok
+BKR,Baker Hughes,SP500,BKR,ok
+BALL,Ball Corporation,SP500,BALL,ok
+BAC,Bank of America,SP500,BAC,ok
+BAX,Baxter International,SP500,BAX,ok
+BDX,Becton Dickinson,SP500,BDX,ok
+BRK.B,Berkshire Hathaway,SP500,BRK.B,no_price_data
+BBY,Best Buy,SP500,BBY,ok
+TECH,Bio-Techne,SP500,TECH,ok
+BIIB,Biogen,SP500,BIIB,ok
+BLK,BlackRock,SP500,BLK,ok
+BX,Blackstone Inc.,SP500,BX,ok
+XYZ,"Block, Inc.",SP500,XYZ,ok
+BK,BNY Mellon,SP500,BK,ok
+BA,Boeing,SP500,BA,ok
+BKNG,Booking Holdings,SP500,BKNG,ok
+BSX,Boston Scientific,SP500,BSX,ok
+BMY,Bristol Myers Squibb,SP500,BMY,ok
+AVGO,Broadcom,SP500,AVGO,ok
+BR,Broadridge Financial Solutions,SP500,BR,ok
+BRO,Brown & Brown,SP500,BRO,ok
+BF.B,Brown–Forman,SP500,BF.B,no_price_data
+BLDR,Builders FirstSource,SP500,BLDR,ok
+BG,Bunge Global,SP500,BG,ok
+BXP,"BXP, Inc.",SP500,BXP,ok
+CHRW,C.H. Robinson,SP500,CHRW,ok
+CDNS,Cadence Design Systems,SP500,CDNS,ok
+CZR,Caesars Entertainment,SP500,CZR,ok
+CPT,Camden Property Trust,SP500,CPT,ok
+CPB,Campbell's Company (The),SP500,CPB,ok
+COF,Capital One,SP500,COF,ok
+CAH,Cardinal Health,SP500,CAH,ok
+KMX,CarMax,SP500,KMX,ok
+CCL,Carnival,SP500,CCL,ok
+CARR,Carrier Global,SP500,CARR,ok
+CAT,Caterpillar Inc.,SP500,CAT,ok
+CBOE,Cboe Global Markets,SP500,CBOE,ok
+CBRE,CBRE Group,SP500,CBRE,ok
+CDW,CDW Corporation,SP500,CDW,ok
+COR,Cencora,SP500,COR,ok
+CNC,Centene Corporation,SP500,CNC,ok
+CNP,CenterPoint Energy,SP500,CNP,ok
+CF,CF Industries,SP500,CF,ok
+CRL,Charles River Laboratories,SP500,CRL,ok
+SCHW,Charles Schwab Corporation,SP500,SCHW,ok
+CHTR,Charter Communications,SP500,CHTR,ok
+CVX,Chevron Corporation,SP500,CVX,ok
+CMG,Chipotle Mexican Grill,SP500,CMG,ok
+CB,Chubb Limited,SP500,CB,ok
+CHD,Church & Dwight,SP500,CHD,ok
+CI,Cigna,SP500,CI,ok
+CINF,Cincinnati Financial,SP500,CINF,ok
+CTAS,Cintas,SP500,CTAS,ok
+CSCO,Cisco,SP500,CSCO,ok
+C,Citigroup,SP500,C,ok
+CFG,Citizens Financial Group,SP500,CFG,ok
+CLX,Clorox,SP500,CLX,ok
+CME,CME Group,SP500,CME,ok
+CMS,CMS Energy,SP500,CMS,ok
+KO,Coca-Cola Company (The),SP500,KO,ok
+CTSH,Cognizant,SP500,CTSH,ok
+COIN,Coinbase,SP500,COIN,ok
+CL,Colgate-Palmolive,SP500,CL,ok
+CMCSA,Comcast,SP500,CMCSA,ok
+CAG,Conagra Brands,SP500,CAG,ok
+COP,ConocoPhillips,SP500,COP,ok
+ED,Consolidated Edison,SP500,ED,ok
+STZ,Constellation Brands,SP500,STZ,ok
+CEG,Constellation Energy,SP500,CEG,ok
+COO,Cooper Companies (The),SP500,COO,ok
+CPRT,Copart,SP500,CPRT,ok
+GLW,Corning Inc.,SP500,GLW,ok
+CPAY,Corpay,SP500,CPAY,ok
+CTVA,Corteva,SP500,CTVA,ok
+CSGP,CoStar Group,SP500,CSGP,ok
+COST,Costco,SP500,COST,ok
+CTRA,Coterra,SP500,CTRA,ok
+CRWD,CrowdStrike,SP500,CRWD,ok
+CCI,Crown Castle,SP500,CCI,ok
+CSX,CSX Corporation,SP500,CSX,ok
+CMI,Cummins,SP500,CMI,ok
+CVS,CVS Health,SP500,CVS,ok
+DHR,Danaher Corporation,SP500,DHR,ok
+DRI,Darden Restaurants,SP500,DRI,ok
+DDOG,Datadog,SP500,DDOG,ok
+DVA,DaVita,SP500,DVA,ok
+DAY,Dayforce,SP500,DAY,ok
+DECK,Deckers Brands,SP500,DECK,ok
+DE,Deere & Company,SP500,DE,ok
+DELL,Dell Technologies,SP500,DELL,ok
+DAL,Delta Air Lines,SP500,DAL,ok
+DVN,Devon Energy,SP500,DVN,ok
+DXCM,Dexcom,SP500,DXCM,ok
+FANG,Diamondback Energy,SP500,FANG,ok
+DLR,Digital Realty,SP500,DLR,ok
+DG,Dollar General,SP500,DG,ok
+DLTR,Dollar Tree,SP500,DLTR,ok
+D,Dominion Energy,SP500,D,ok
+DPZ,Domino's,SP500,DPZ,ok
+DASH,DoorDash,SP500,DASH,ok
+DOV,Dover Corporation,SP500,DOV,ok
+DOW,Dow Inc.,SP500,DOW,ok
+DHI,D. R. Horton,SP500,DHI,ok
+DTE,DTE Energy,SP500,DTE,ok
+DUK,Duke Energy,SP500,DUK,ok
+DD,DuPont,SP500,DD,ok
+EMN,Eastman Chemical Company,SP500,EMN,ok
+ETN,Eaton Corporation,SP500,ETN,ok
+EBAY,eBay Inc.,SP500,EBAY,ok
+ECL,Ecolab,SP500,ECL,ok
+EIX,Edison International,SP500,EIX,ok
+EW,Edwards Lifesciences,SP500,EW,ok
+EA,Electronic Arts,SP500,EA,ok
+ELV,Elevance Health,SP500,ELV,ok
+EMR,Emerson Electric,SP500,EMR,ok
+ENPH,Enphase Energy,SP500,ENPH,ok
+ETR,Entergy,SP500,ETR,ok
+EOG,EOG Resources,SP500,EOG,ok
+EPAM,EPAM Systems,SP500,EPAM,ok
+EQT,EQT Corporation,SP500,EQT,ok
+EFX,Equifax,SP500,EFX,ok
+EQIX,Equinix,SP500,EQIX,ok
+EQR,Equity Residential,SP500,EQR,ok
+ERIE,Erie Indemnity,SP500,ERIE,ok
+ESS,Essex Property Trust,SP500,ESS,ok
+EL,Estée Lauder Companies (The),SP500,EL,ok
+EG,Everest Group,SP500,EG,ok
+EVRG,Evergy,SP500,EVRG,ok
+ES,Eversource Energy,SP500,ES,ok
+EXC,Exelon,SP500,EXC,ok
+EXE,Expand Energy,SP500,EXE,ok
+EXPE,Expedia Group,SP500,EXPE,ok
+EXPD,Expeditors International,SP500,EXPD,ok
+EXR,Extra Space Storage,SP500,EXR,ok
+XOM,ExxonMobil,SP500,XOM,ok
+FFIV,"F5, Inc.",SP500,FFIV,ok
+FDS,FactSet,SP500,FDS,ok
+FICO,Fair Isaac,SP500,FICO,ok
+FAST,Fastenal,SP500,FAST,ok
+FRT,Federal Realty Investment Trust,SP500,FRT,ok
+FDX,FedEx,SP500,FDX,ok
+FIS,Fidelity National Information Services,SP500,FIS,ok
+FITB,Fifth Third Bancorp,SP500,FITB,ok
+FSLR,First Solar,SP500,FSLR,ok
+FE,FirstEnergy,SP500,FE,ok
+FI,Fiserv,SP500,FI,ok
+F,Ford Motor Company,SP500,F,ok
+FTNT,Fortinet,SP500,FTNT,ok
+FTV,Fortive,SP500,FTV,ok
+FOXA,Fox Corporation (Class A),SP500,FOXA,ok
+FOX,Fox Corporation (Class B),SP500,FOX,ok
+BEN,Franklin Resources,SP500,BEN,ok
+FCX,Freeport-McMoRan,SP500,FCX,ok
+GRMN,Garmin,SP500,GRMN,ok
+IT,Gartner,SP500,IT,ok
+GE,GE Aerospace,SP500,GE,ok
+GEHC,GE HealthCare,SP500,GEHC,ok
+GEV,GE Vernova,SP500,GEV,ok
+GEN,Gen Digital,SP500,GEN,ok
+GNRC,Generac,SP500,GNRC,ok
+GD,General Dynamics,SP500,GD,ok
+GIS,General Mills,SP500,GIS,ok
+GM,General Motors,SP500,GM,ok
+GPC,Genuine Parts Company,SP500,GPC,ok
+GILD,Gilead Sciences,SP500,GILD,ok
+GPN,Global Payments,SP500,GPN,ok
+GL,Globe Life,SP500,GL,ok
+GDDY,GoDaddy,SP500,GDDY,ok
+GS,Goldman Sachs,SP500,GS,ok
+HAL,Halliburton,SP500,HAL,ok
+HIG,Hartford (The),SP500,HIG,ok
+HAS,Hasbro,SP500,HAS,ok
+HCA,HCA Healthcare,SP500,HCA,ok
+DOC,Healthpeak Properties,SP500,DOC,ok
+HSIC,Henry Schein,SP500,HSIC,ok
+HSY,Hershey Company (The),SP500,HSY,ok
+HPE,Hewlett Packard Enterprise,SP500,HPE,ok
+HLT,Hilton Worldwide,SP500,HLT,ok
+HOLX,Hologic,SP500,HOLX,ok
+HD,Home Depot (The),SP500,HD,ok
+HON,Honeywell,SP500,HON,ok
+HRL,Hormel Foods,SP500,HRL,ok
+HST,Host Hotels & Resorts,SP500,HST,ok
+HWM,Howmet Aerospace,SP500,HWM,ok
+HPQ,HP Inc.,SP500,HPQ,ok
+HUBB,Hubbell Incorporated,SP500,HUBB,ok
+HUM,Humana,SP500,HUM,ok
+HBAN,Huntington Bancshares,SP500,HBAN,ok
+HII,Huntington Ingalls Industries,SP500,HII,ok
+IBM,IBM,SP500,IBM,ok
+IEX,IDEX Corporation,SP500,IEX,ok
+IDXX,Idexx Laboratories,SP500,IDXX,ok
+ITW,Illinois Tool Works,SP500,ITW,ok
+INCY,Incyte,SP500,INCY,ok
+IR,Ingersoll Rand,SP500,IR,ok
+PODD,Insulet Corporation,SP500,PODD,ok
+INTC,Intel,SP500,INTC,ok
+IBKR,Interactive Brokers,SP500,IBKR,ok
+ICE,Intercontinental Exchange,SP500,ICE,ok
+IFF,International Flavors & Fragrances,SP500,IFF,ok
+IP,International Paper,SP500,IP,ok
+IPG,Interpublic Group of Companies (The),SP500,IPG,ok
+INTU,Intuit,SP500,INTU,ok
+ISRG,Intuitive Surgical,SP500,ISRG,ok
+IVZ,Invesco,SP500,IVZ,ok
+INVH,Invitation Homes,SP500,INVH,ok
+IQV,IQVIA,SP500,IQV,ok
+IRM,Iron Mountain,SP500,IRM,ok
+JBHT,J.B. Hunt,SP500,JBHT,ok
+JBL,Jabil,SP500,JBL,ok
+JKHY,Jack Henry & Associates,SP500,JKHY,ok
+J,Jacobs Solutions,SP500,J,ok
+JNJ,Johnson & Johnson,SP500,JNJ,ok
+JCI,Johnson Controls,SP500,JCI,ok
+JPM,JPMorgan Chase,SP500,JPM,ok
+K,Kellanova,SP500,K,ok
+KVUE,Kenvue,SP500,KVUE,ok
+KDP,Keurig Dr Pepper,SP500,KDP,ok
+KEY,KeyCorp,SP500,KEY,ok
+KEYS,Keysight Technologies,SP500,KEYS,ok
+KMB,Kimberly-Clark,SP500,KMB,ok
+KIM,Kimco Realty,SP500,KIM,ok
+KMI,Kinder Morgan,SP500,KMI,ok
+KKR,KKR & Co.,SP500,KKR,ok
+KLAC,KLA Corporation,SP500,KLAC,ok
+KHC,Kraft Heinz,SP500,KHC,ok
+KR,Kroger,SP500,KR,ok
+LHX,L3Harris,SP500,LHX,ok
+LH,Labcorp,SP500,LH,ok
+LRCX,Lam Research,SP500,LRCX,ok
+LW,Lamb Weston,SP500,LW,ok
+LVS,Las Vegas Sands,SP500,LVS,ok
+LDOS,Leidos,SP500,LDOS,ok
+LEN,Lennar,SP500,LEN,ok
+LII,Lennox International,SP500,LII,ok
+LLY,Lilly (Eli),SP500,LLY,ok
+LIN,Linde plc,SP500,LIN,ok
+LYV,Live Nation Entertainment,SP500,LYV,ok
+LKQ,LKQ Corporation,SP500,LKQ,ok
+LMT,Lockheed Martin,SP500,LMT,ok
+L,Loews Corporation,SP500,L,ok
+LOW,Lowe's,SP500,LOW,ok
+LULU,Lululemon Athletica,SP500,LULU,ok
+LYB,LyondellBasell,SP500,LYB,ok
+MTB,M&T Bank,SP500,MTB,ok
+MPC,Marathon Petroleum,SP500,MPC,ok
+MKTX,MarketAxess,SP500,MKTX,ok
+MAR,Marriott International,SP500,MAR,ok
+MMC,Marsh McLennan,SP500,MMC,ok
+MLM,Martin Marietta Materials,SP500,MLM,ok
+MAS,Masco,SP500,MAS,ok
+MA,Mastercard,SP500,MA,ok
+MTCH,Match Group,SP500,MTCH,ok
+MKC,McCormick & Company,SP500,MKC,ok
+MCD,McDonald's,SP500,MCD,ok
+MCK,McKesson Corporation,SP500,MCK,ok
+MDT,Medtronic,SP500,MDT,ok
+MRK,Merck & Co.,SP500,MRK,ok
+META,Meta Platforms,SP500,META,ok
+MET,MetLife,SP500,MET,ok
+MTD,Mettler Toledo,SP500,MTD,ok
+MGM,MGM Resorts,SP500,MGM,ok
+MCHP,Microchip Technology,SP500,MCHP,ok
+MU,Micron Technology,SP500,MU,ok
+MSFT,Microsoft,SP500,MSFT,ok
+MAA,Mid-America Apartment Communities,SP500,MAA,ok
+MRNA,Moderna,SP500,MRNA,ok
+MHK,Mohawk Industries,SP500,MHK,ok
+MOH,Molina Healthcare,SP500,MOH,ok
+TAP,Molson Coors Beverage Company,SP500,TAP,ok
+MDLZ,Mondelez International,SP500,MDLZ,ok
+MPWR,Monolithic Power Systems,SP500,MPWR,ok
+MNST,Monster Beverage,SP500,MNST,ok
+MCO,Moody's Corporation,SP500,MCO,ok
+MS,Morgan Stanley,SP500,MS,ok
+MOS,Mosaic Company (The),SP500,MOS,ok
+MSI,Motorola Solutions,SP500,MSI,ok
+MSCI,MSCI Inc.,SP500,MSCI,ok
+NDAQ,"Nasdaq, Inc.",SP500,NDAQ,ok
+NTAP,NetApp,SP500,NTAP,ok
+NFLX,Netflix,SP500,NFLX,ok
+NEM,Newmont,SP500,NEM,ok
+NWSA,News Corp (Class A),SP500,NWSA,ok
+NWS,News Corp (Class B),SP500,NWS,ok
+NEE,NextEra Energy,SP500,NEE,ok
+NKE,"Nike, Inc.",SP500,NKE,ok
+NI,NiSource,SP500,NI,ok
+NDSN,Nordson Corporation,SP500,NDSN,ok
+NSC,Norfolk Southern,SP500,NSC,ok
+NTRS,Northern Trust,SP500,NTRS,ok
+NOC,Northrop Grumman,SP500,NOC,ok
+NCLH,Norwegian Cruise Line Holdings,SP500,NCLH,ok
+NRG,NRG Energy,SP500,NRG,ok
+NUE,Nucor,SP500,NUE,ok
+NVDA,Nvidia,SP500,NVDA,ok
+NVR,"NVR, Inc.",SP500,NVR,ok
+NXPI,NXP Semiconductors,SP500,NXPI,ok
+ORLY,O’Reilly Automotive,SP500,ORLY,ok
+OXY,Occidental Petroleum,SP500,OXY,ok
+ODFL,Old Dominion,SP500,ODFL,ok
+OMC,Omnicom Group,SP500,OMC,ok
+ON,ON Semiconductor,SP500,ON,ok
+OKE,Oneok,SP500,OKE,ok
+ORCL,Oracle Corporation,SP500,ORCL,ok
+OTIS,Otis Worldwide,SP500,OTIS,ok
+PCAR,Paccar,SP500,PCAR,ok
+PKG,Packaging Corporation of America,SP500,PKG,ok
+PLTR,Palantir Technologies,SP500,PLTR,ok
+PANW,Palo Alto Networks,SP500,PANW,ok
+PSKY,Paramount Skydance Corporation,SP500,PSKY,ok
+PH,Parker Hannifin,SP500,PH,ok
+PAYX,Paychex,SP500,PAYX,ok
+PAYC,Paycom,SP500,PAYC,ok
+PYPL,PayPal,SP500,PYPL,ok
+PNR,Pentair,SP500,PNR,ok
+PEP,PepsiCo,SP500,PEP,ok
+PFE,Pfizer,SP500,PFE,ok
+PCG,PG&E Corporation,SP500,PCG,ok
+PM,Philip Morris International,SP500,PM,ok
+PSX,Phillips 66,SP500,PSX,ok
+PNW,Pinnacle West Capital,SP500,PNW,ok
+PNC,PNC Financial Services,SP500,PNC,ok
+POOL,Pool Corporation,SP500,POOL,ok
+PPG,PPG Industries,SP500,PPG,ok
+PPL,PPL Corporation,SP500,PPL,ok
+PFG,Principal Financial Group,SP500,PFG,ok
+PG,Procter & Gamble,SP500,PG,ok
+PGR,Progressive Corporation,SP500,PGR,ok
+PLD,Prologis,SP500,PLD,ok
+PRU,Prudential Financial,SP500,PRU,ok
+PEG,Public Service Enterprise Group,SP500,PEG,ok
+PTC,PTC Inc.,SP500,PTC,ok
+PSA,Public Storage,SP500,PSA,ok
+PHM,PulteGroup,SP500,PHM,ok
+PWR,Quanta Services,SP500,PWR,ok
+QCOM,Qualcomm,SP500,QCOM,ok
+DGX,Quest Diagnostics,SP500,DGX,ok
+RL,Ralph Lauren Corporation,SP500,RL,ok
+RJF,Raymond James Financial,SP500,RJF,ok
+RTX,RTX Corporation,SP500,RTX,ok
+O,Realty Income,SP500,O,ok
+REG,Regency Centers,SP500,REG,ok
+REGN,Regeneron Pharmaceuticals,SP500,REGN,ok
+RF,Regions Financial Corporation,SP500,RF,ok
+RSG,Republic Services,SP500,RSG,ok
+RMD,ResMed,SP500,RMD,ok
+RVTY,Revvity,SP500,RVTY,ok
+ROK,Rockwell Automation,SP500,ROK,ok
+ROL,"Rollins, Inc.",SP500,ROL,ok
+ROP,Roper Technologies,SP500,ROP,ok
+ROST,Ross Stores,SP500,ROST,ok
+RCL,Royal Caribbean Group,SP500,RCL,ok
+SPGI,S&P Global,SP500,SPGI,ok
+CRM,Salesforce,SP500,CRM,ok
+SBAC,SBA Communications,SP500,SBAC,ok
+SLB,Schlumberger,SP500,SLB,ok
+STX,Seagate Technology,SP500,STX,ok
+SRE,Sempra,SP500,SRE,ok
+NOW,ServiceNow,SP500,NOW,ok
+SHW,Sherwin-Williams,SP500,SHW,ok
+SPG,Simon Property Group,SP500,SPG,ok
+SWKS,Skyworks Solutions,SP500,SWKS,ok
+SJM,J.M. Smucker Company (The),SP500,SJM,ok
+SW,Smurfit Westrock,SP500,SW,ok
+SNA,Snap-on,SP500,SNA,ok
+SOLV,Solventum,SP500,SOLV,ok
+SO,Southern Company,SP500,SO,ok
+LUV,Southwest Airlines,SP500,LUV,ok
+SWK,Stanley Black & Decker,SP500,SWK,ok
+SBUX,Starbucks,SP500,SBUX,ok
+STT,State Street Corporation,SP500,STT,ok
+STLD,Steel Dynamics,SP500,STLD,ok
+STE,Steris,SP500,STE,ok
+SYK,Stryker Corporation,SP500,SYK,ok
+SMCI,Supermicro,SP500,SMCI,ok
+SYF,Synchrony Financial,SP500,SYF,ok
+SNPS,Synopsys,SP500,SNPS,ok
+SYY,Sysco,SP500,SYY,ok
+TMUS,T-Mobile US,SP500,TMUS,ok
+TROW,T. Rowe Price,SP500,TROW,ok
+TTWO,Take-Two Interactive,SP500,TTWO,ok
+TPR,"Tapestry, Inc.",SP500,TPR,ok
+TRGP,Targa Resources,SP500,TRGP,ok
+TGT,Target Corporation,SP500,TGT,ok
+TEL,TE Connectivity,SP500,TEL,ok
+TDY,Teledyne Technologies,SP500,TDY,ok
+TER,Teradyne,SP500,TER,ok
+TSLA,"Tesla, Inc.",SP500,TSLA,ok
+TXN,Texas Instruments,SP500,TXN,ok
+TPL,Texas Pacific Land Corporation,SP500,TPL,ok
+TXT,Textron,SP500,TXT,ok
+TMO,Thermo Fisher Scientific,SP500,TMO,ok
+TJX,TJX Companies,SP500,TJX,ok
+TKO,TKO Group Holdings,SP500,TKO,ok
+TTD,Trade Desk (The),SP500,TTD,ok
+TSCO,Tractor Supply,SP500,TSCO,ok
+TT,Trane Technologies,SP500,TT,ok
+TDG,TransDigm Group,SP500,TDG,ok
+TRV,Travelers Companies (The),SP500,TRV,ok
+TRMB,Trimble Inc.,SP500,TRMB,ok
+TFC,Truist Financial,SP500,TFC,ok
+TYL,Tyler Technologies,SP500,TYL,ok
+TSN,Tyson Foods,SP500,TSN,ok
+USB,U.S. Bancorp,SP500,USB,ok
+UBER,Uber,SP500,UBER,ok
+UDR,"UDR, Inc.",SP500,UDR,ok
+ULTA,Ulta Beauty,SP500,ULTA,ok
+UNP,Union Pacific Corporation,SP500,UNP,ok
+UAL,United Airlines Holdings,SP500,UAL,ok
+UPS,United Parcel Service,SP500,UPS,ok
+URI,United Rentals,SP500,URI,ok
+UNH,UnitedHealth Group,SP500,UNH,ok
+UHS,Universal Health Services,SP500,UHS,ok
+VLO,Valero Energy,SP500,VLO,ok
+VTR,Ventas,SP500,VTR,ok
+VLTO,Veralto,SP500,VLTO,ok
+VRSN,Verisign,SP500,VRSN,ok
+VRSK,Verisk Analytics,SP500,VRSK,ok
+VZ,Verizon,SP500,VZ,ok
+VRTX,Vertex Pharmaceuticals,SP500,VRTX,ok
+VTRS,Viatris,SP500,VTRS,ok
+VICI,Vici Properties,SP500,VICI,ok
+V,Visa Inc.,SP500,V,ok
+VST,Vistra Corp.,SP500,VST,ok
+VMC,Vulcan Materials Company,SP500,VMC,ok
+WRB,W. R. Berkley Corporation,SP500,WRB,ok
+GWW,W. W. Grainger,SP500,GWW,ok
+WAB,Wabtec,SP500,WAB,ok
+WMT,Walmart,SP500,WMT,ok
+DIS,Walt Disney Company (The),SP500,DIS,ok
+WBD,Warner Bros. Discovery,SP500,WBD,ok
+WM,Waste Management,SP500,WM,ok
+WAT,Waters Corporation,SP500,WAT,ok
+WEC,WEC Energy Group,SP500,WEC,ok
+WFC,Wells Fargo,SP500,WFC,ok
+WELL,Welltower,SP500,WELL,ok
+WST,West Pharmaceutical Services,SP500,WST,ok
+WDC,Western Digital,SP500,WDC,ok
+WY,Weyerhaeuser,SP500,WY,ok
+WSM,"Williams-Sonoma, Inc.",SP500,WSM,ok
+WMB,Williams Companies,SP500,WMB,ok
+WTW,Willis Towers Watson,SP500,WTW,ok
+WDAY,"Workday, Inc.",SP500,WDAY,ok
+WYNN,Wynn Resorts,SP500,WYNN,ok
+XEL,Xcel Energy,SP500,XEL,ok
+XYL,Xylem Inc.,SP500,XYL,ok
+YUM,Yum! Brands,SP500,YUM,ok
+ZBRA,Zebra Technologies,SP500,ZBRA,ok
+ZBH,Zimmer Biomet,SP500,ZBH,ok
+ZTS,Zoetis,SP500,ZTS,ok
+AMXL,América Móvil,IPC,AMXL.MX,no_price_data
+WALMEXV,Walmex,IPC,WALMEXV.MX,no_price_data
+FEMSAUBD,Fomento Económico Mexicano,IPC,FEMSAUBD.MX,ok
+TLEVISACPO,Grupo Televisa,IPC,TLEVISACPO.MX,ok
+GMEXICOB,Grupo México,IPC,GMEXICOB.MX,ok
+GFNORTEO,Grupo Financiero Banorte,IPC,GFNORTEO.MX,ok
+CEMEXCPO,Cemex,IPC,CEMEXCPO.MX,ok
+ALFAA,Grupo Alfa,IPC,ALFAA.MX,ok
+PEOLES,Industrias Peñoles,IPC,PEOLES.MX,no_price_data
+GFINBURO,Grupo Financiero Inbursa,IPC,GFINBURO.MX,ok
+KOFL,Coca-Cola FEMSA,IPC,KOFL.MX,no_price_data
+ELEKTRA,Grupo Elektra,IPC,ELEKTRA.MX,ok
+MEXCHEM,Mexichem,IPC,MEXCHEM.MX,no_price_data
+BIMBOA,Grupo Bimbo,IPC,BIMBOA.MX,ok
+AC,Arca Continental,IPC,AC.MX,ok
+KIMBER,Kimberly-Clark,IPC,KIMBER.MX,no_price_data
+LABB,Genomma Lab Internacional,IPC,LABB.MX,ok
+LIVEPOLC-1,El Puerto de Liverpool,IPC,LIVEPOLC-1.MX,ok
+ASURB,Grupo Aeroportuario del Sureste,IPC,ASURB.MX,ok
+GAPB,Grupo Aeroportuario del Pacífico,IPC,GAPB.MX,ok
+COMPARC,Banco Compartamos,IPC,COMPARC.MX,no_price_data
+ALPEKA,Alpek,IPC,ALPEKA.MX,ok
+ICA,Empresas ICA,IPC,ICA.MX,ok
+ICHB,Industrias Ch,IPC,ICHB.MX,ok
+BOLSAA,Bolsa Mexicana de Valores,IPC,BOLSAA.MX,ok
+AZTECACPO,TV Azteca,IPC,AZTECACPO.MX,ok
+OHLMEX,OHL México,IPC,OHLMEX.MX,no_price_data
+GRUMAB,Grupo Maseca,IPC,GRUMAB.MX,ok
+ALSEA,Controladora Alsea,IPC,ALSEA.MX,ok
+GCARSOA1,Grupo Carso,IPC,GCARSOA1.MX,ok
+LALAB,Grupo Lala,IPC,LALAB.MX,no_price_data
+GFREGIOO,Grupo Financiero BanRegio,IPC,GFREGIOO.MX,no_price_data
+COMERCI,Controladora Comercial Mexicana,IPC,COMERCI.MX,no_price_data
+IENOVA,IEnova,IPC,IENOVA.MX,no_price_data
+PINFRA,Pinfra,IPC,PINFRA.MX,ok
+SANMEX,Santander México,IPC,SANMEX.MX,no_price_data
+PETR4,Petroleo Brasileiro SA Pfd P,IBOV,PETR4.SA,ok
+PETR3,Petroleo Brasileiro SA,IBOV,PETR3.SA,ok
+ITUB4,Itau Unibanco Holding SA Pfd P,IBOV,ITUB4.SA,ok
+VALE3,Vale S.A.,IBOV,VALE3.SA,ok
+ABEV3,Ambev SA,IBOV,ABEV3.SA,ok
+BBDC3,Banco Bradesco SA,IBOV,BBDC3.SA,ok
+BBDC4,Banco Bradesco SA Pfd P,IBOV,BBDC4.SA,ok
+WEGE3,WEG SA,IBOV,WEGE3.SA,ok
+ITSA4,Itausa SA Non-Cum Perp Pfd Registered Shs P,IBOV,ITSA4.SA,ok
+BBAS3,Banco do Brasil S.A.,IBOV,BBAS3.SA,ok
+VIVT3,Telefonica Brasil S.A.,IBOV,VIVT3.SA,ok
+ELET3,Centrais Eletricas Brasileiras SA-Eletrobras,IBOV,ELET3.SA,ok
+ELET6,Centrais Eletricas Brasileiras SA-Eletrobras Pfd B P,IBOV,ELET6.SA,ok
+RDOR3,Rede D'Or Sao Luiz SA,IBOV,RDOR3.SA,ok
+SBSP3,Companhia de Saneamento Basico do Estado de Sao Paulo SABESP,IBOV,SBSP3.SA,ok
+SUZB3,Suzano S.A.,IBOV,SUZB3.SA,ok
+BBSE3,BB Seguridade Participacoes SA,IBOV,BBSE3.SA,ok
+EMBR3,Embraer S.A.,IBOV,EMBR3.SA,ok
+TIMS3,TIM S.A.,IBOV,TIMS3.SA,ok
+CPFE3,CPFL Energia S.A.,IBOV,CPFE3.SA,ok
+EQTL3,Equatorial S.A.,IBOV,EQTL3.SA,ok
+CXSE3,Caixa Seguridade Participacoes SA,IBOV,CXSE3.SA,ok
+RENT3,Localiza Rent A Car SA,IBOV,RENT3.SA,ok
+CMIG4,Companhia Energetica de Minas Gerais SA Pfd P,IBOV,CMIG4.SA,ok
+CPLE6,Companhia Paranaense de Energia - COPEL Pfd Registered B P,IBOV,CPLE6.SA,ok
+BRFS3,BRF S.A.,IBOV,BRFS3.SA,ok
+PSSA3,Porto Seguro S.A.,IBOV,PSSA3.SA,ok
+EGIE3,ENGIE Brasil Energia S.A.,IBOV,EGIE3.SA,ok
+PRIO3,Prio SA,IBOV,PRIO3.SA,ok
+GGBR4,Gerdau S.A. Pfd P,IBOV,GGBR4.SA,ok
+RADL3,Raia Drogasil S.A.,IBOV,RADL3.SA,ok
+ENEV3,Eneva S.A.,IBOV,ENEV3.SA,ok
+MOTV3,Motiva Infraestrutura de Mobilidade SA,IBOV,MOTV3.SA,ok
+CMIN3,CSN Mineracao SA,IBOV,CMIN3.SA,ok
+RAIL3,Rumo SA,IBOV,RAIL3.SA,ok
+VBBR3,Vibra Energia SA,IBOV,VBBR3.SA,ok
+TOTS3,TOTVS S.A.,IBOV,TOTS3.SA,ok
+UGPA3,Ultrapar Participacoes S.A.,IBOV,UGPA3.SA,ok
+MRFG3,Marfrig Global Foods SA,IBOV,MRFG3.SA,ok
+HAPV3,Hapvida Participacoes e Investimentos SA,IBOV,HAPV3.SA,ok
+LREN3,Lojas Renner S.A.,IBOV,LREN3.SA,ok
+ISAE4,Isa Energia Brasil SA Non-Cum Perp Pfd Registered Shs P,IBOV,ISAE4.SA,ok
+HYPE3,Hypera S.A.,IBOV,HYPE3.SA,ok
+SMFT3,Smartfit Escola de Ginastica e Danca SA,IBOV,SMFT3.SA,ok
+ASAI3,Sendas Distribuidora SA,IBOV,ASAI3.SA,ok
+MULT3,Multiplan Empreendimentos Imobiliarios SA,IBOV,MULT3.SA,ok
+ALOS3,Allos S.A.,IBOV,ALOS3.SA,ok
+NATU3,Natura Cosmeticos SA,IBOV,NATU3.SA,ok
+STBP3,Santos Brasil Participacoes SA,IBOV,STBP3.SA,ok
+RAIZ4,Raizen SA Non-Cum Perp Pfd Registered Shs P,IBOV,RAIZ4.SA,ok
+AURE3,Auren Energia SA,IBOV,AURE3.SA,ok
+CSAN3,Cosan S.A.,IBOV,CSAN3.SA,ok
+CYRE3,Cyrela Brazil Realty SA Empreendimentos e Participacoes,IBOV,CYRE3.SA,ok
+CSNA3,Companhia Siderurgica Nacional,IBOV,CSNA3.SA,ok
+CURY3,Cury Construtora e Incorporadora SA,IBOV,CURY3.SA,ok
+POMO4,Marcopolo SA Pfd P,IBOV,POMO4.SA,ok
+GOAU4,Metalurgica Gerdau SA Pfd P,IBOV,GOAU4.SA,ok
+BRAV3,Brava Energia,IBOV,BRAV3.SA,ok
+FLRY3,Fleury SA,IBOV,FLRY3.SA,ok
+DIRR3,Direcional Engenharia S.A.,IBOV,DIRR3.SA,ok
+BRKM5,Braskem S.A. Pfd A P,IBOV,BRKM5.SA,ok
+SLCE3,SLC Agricola S.A.,IBOV,SLCE3.SA,ok
+AZZA3,Azzas 2154 SA,IBOV,AZZA3.SA,ok
+VIVA3,Vivara Participacoes SA,IBOV,VIVA3.SA,ok
+BRAP4,Bradespar SA Pfd P,IBOV,BRAP4.SA,ok
+BEEF3,Minerva S.A.,IBOV,BEEF3.SA,ok
+MGLU3,Magazine Luiza S.A.,IBOV,MGLU3.SA,ok
+USIM5,Usinas Siderurgicas de Minas Gerais SA-Usiminas Pfd A P,IBOV,USIM5.SA,ok
+COGN3,Cogna Educacao S.A.,IBOV,COGN3.SA,ok
+CEAB3,C&A Modas SA,IBOV,CEAB3.SA,ok
+VAMO3,"Vamos Locacao de Caminhoes, Maquinas e Equipamentos SA",IBOV,VAMO3.SA,ok
+MRVE3,MRV Engenharia e Participacoes S.A.,IBOV,MRVE3.SA,ok
+IRBR3,IRB Brasil Resseguros SA,IBOV,IRBR3.SA,ok
+RECV3,Petroreconcavo SA,IBOV,RECV3.SA,ok
+YDUQ3,YDUQS Participacoes SA,IBOV,YDUQ3.SA,ok
+PCAR3,Companhia Brasileira de Distribuicao,IBOV,PCAR3.SA,ok
+CVCB3,CVC Brasil Operadora e Agencia de Viagens SA,IBOV,CVCB3.SA,ok
+KLBN11,Klabin SA Ctf de Deposito de Acoes Cons of 1 Sh + 4 Pfd Shs,IBOV,KLBN11.SA,ok
+TAEE11,Transmissora Alianca De Energia Eletrica S.A. Unit,IBOV,TAEE11.SA,ok
+SANB11,Banco Santander (Brasil) S.A. Units Cons of 1 Sh + 1 Pfd Sh,IBOV,SANB11.SA,ok
+BPAC11,Banco BTG Pactual SA Units Cons of 1 Sh + 2 Pfd Shs A,IBOV,BPAC11.SA,ok
+ENGI11,Energisa SA Units Cons of 1 Sh + 4 Pfd Shs,IBOV,ENGI11.SA,ok
+IGTI11,Iguatemi SA Units Cons of 1 Sh + 2 Pfd Shs,IBOV,IGTI11.SA,ok
