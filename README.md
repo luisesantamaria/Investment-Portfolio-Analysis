@@ -1,4 +1,4 @@
-# Efficient Frontier — Portfolio Optimization and Analysis
+# Investment Portfolio Analysis
 
 This project provides a structured quantitative portfolio analysis across S&P 500 (United States), IPC (Mexico), and Ibovespa (Brazil).  
 It covers universe construction, cleaning, price validation, covariance modeling, portfolio optimization, efficient frontier visualization, and historical performance benchmarking.  
@@ -44,8 +44,8 @@ It covers universe construction, cleaning, price validation, covariance modeling
 ## How to Run Locally
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/efficient-frontier-portfolio-analysis.git
-cd efficient-frontier-portfolio-analysis
+git clone https://github.com/luisesantamaria/investment-portfolio-analysis.git
+cd investment-portfolio-analysis
 
 # 2. Install requirements
 pip install -r requirements.txt
