@@ -1,14 +1,15 @@
 # Investment Portfolio Analysis
 
+[![Launch App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://investmentportfolioanalysis.streamlit.app/)
+
 This project provides a structured quantitative portfolio analysis across S&P 500 (United States), IPC (Mexico), and Ibovespa (Brazil).  
 It covers universe construction, cleaning, price validation, covariance modeling, portfolio optimization, efficient frontier visualization, and historical performance benchmarking.  
 
 ---
 
 ## Quick Access
-- Dashboard: Streamlit App (to be deployed)  
-- Notebook: [Main Jupyter Notebook](notebook.ipynb) 
-- PDF Report: To be added  
+- Dashboard: [Streamlit App](https://investmentportfolioanalysis.streamlit.app)
+- Notebook: [Notebook on GitHub](notebook.ipynb) 
 
 ---
 
