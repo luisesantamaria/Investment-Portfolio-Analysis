@@ -322,7 +322,7 @@ if data_ready:
 
 
     if not valid_sum:
-        st.error("Adjust the weights: the sum must meet the target indicated above."
+        st.error("Adjust the weights: the sum must meet 100%. "
                  "Charts and metrics are enabled when the sum is valid.")
         st.stop()
 
