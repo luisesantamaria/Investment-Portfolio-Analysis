@@ -7,7 +7,7 @@ It covers universe construction, cleaning, price validation, covariance modeling
 
 ## Quick Access
 - Dashboard: Streamlit App (to be deployed)  
-- Notebook: [Main Jupyter Notebook](./notebooks/Efficient_Frontier_Analysis.ipynb)  
+- Notebook: [Main Jupyter Notebook](notebook.ipynb) 
 - PDF Report: To be added  
 
 ---
